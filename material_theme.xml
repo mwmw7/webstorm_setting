@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="2" />
+    <option name="accentColor" value="63a9f1" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-3f7a1569:17161cb59f0:-7ffd" />
+    <option name="version" value="5.1.0" />
+  </component>
+</application>
