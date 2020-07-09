@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping pattern="logger" type="TypeScript" />
       <mapping pattern="shoe" type="TypeScript" />
     </extensionMap>
