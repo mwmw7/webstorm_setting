@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping pattern="shoe" type="TypeScript" />
+      <mapping pattern="inputInteger" type="TypeScript" />
       <mapping pattern="logger" type="TypeScript" />
     </extensionMap>
   </component>
