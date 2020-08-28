@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="cardCreate" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping pattern="shoe" type="TypeScript" />
       <mapping pattern="inputInteger" type="TypeScript" />
