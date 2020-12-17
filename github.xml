@@ -1,0 +1,12 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="553af23b-5881-4fc2-aef4-67135c0bf6ef" name="mwmw7">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="COPY_URL_GIST" value="true" />
+    <option name="PRIVATE_GIST" value="false" />
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>

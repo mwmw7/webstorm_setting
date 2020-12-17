@@ -1,0 +1,3 @@
+<keymap version="1" name="Windows copy 2" parent="$default">
+  <action id="EditorLineStart" />
+</keymap>
