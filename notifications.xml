@@ -1,5 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Gitflow Errors" displayType="STICKY_BALLOON" shouldReadAloud="true" playSound="true" />
+    <notification groupId="Gitflow Errors" displayType="STICKY_BALLOON" playSound="true" />
   </component>
 </application>
