@@ -1,0 +1,12 @@
+<application>
+  <component name="GitflowState">
+    <option name="taskBranches">
+      <map>
+        <entry key="LOCAL-00024" value="feature/jetbrain_task_test" />
+        <entry key="tooning-graphql-server-202" value="feature/tooning-graphql-server-202" />
+        <entry key="tooning-ionic-admin-896" value="feature/tooning-ionic-admin-896" />
+        <entry key="tooning-ionic-admin-923" value="feature/tooning-ionic-admin-923" />
+      </map>
+    </option>
+  </component>
+</application>

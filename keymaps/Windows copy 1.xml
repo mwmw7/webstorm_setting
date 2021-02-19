@@ -1,0 +1,8 @@
+<keymap version="1" name="Windows copy 1" parent="$default">
+  <action id="EditorLeft" />
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="left" />
+  </action>
+  <action id="Vcs.Log.GoToChild" />
+</keymap>

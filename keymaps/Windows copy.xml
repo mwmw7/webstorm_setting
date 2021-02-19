@@ -1,0 +1,12 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="EditorLeft" />
+  <action id="EditorRight" />
+  <action id="List-selectNextColumn" />
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="Table-selectNextColumn" />
+  <action id="Vcs.Log.GoToChild" />
+  <action id="Vcs.Log.GoToParent" />
+</keymap>
