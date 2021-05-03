@@ -74,7 +74,7 @@
                   </entry>
                   <entry key="PhoneGap">
                     <value>
-                      <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" />
+                      <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
