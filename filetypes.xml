@@ -7,6 +7,7 @@
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="ssl" type="PLAIN_TEXT" />
