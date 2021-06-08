@@ -16,6 +16,8 @@
       <mapping pattern="logger" type="TypeScript" />
       <mapping pattern="shoe" type="TypeScript" />
       <mapping pattern="background" type="TypeScript" />
+      <mapping ext="enum" type="TypeScript" />
+      <mapping ext="service" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
