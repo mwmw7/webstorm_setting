@@ -11,4 +11,11 @@
     <entry key="show.diff.as.editor.tab" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="CodeStream.StatusBar" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
