@@ -10,6 +10,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="ssl" type="PLAIN_TEXT" />
       <mapping pattern="elementPrediction" type="TypeScript" />
