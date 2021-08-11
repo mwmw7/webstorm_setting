@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="tooning-repo-939 편집툴 PC - 버튼 텍스트 사이즈 확대" />
-    <option name="defaultScopeName" value="tooning-repo-939 편집툴 PC - 버튼 텍스트 사이즈 확대" />
-    <option name="SEARCH_SCOPE" value="tooning-repo-939 편집툴 PC - 버튼 텍스트 사이즈 확대" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.ts</mask>
     <mask>*.html</mask>
   </component>
