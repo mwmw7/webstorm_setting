@@ -3,8 +3,8 @@
     <option name="customScope" value="default" />
     <option name="defaultScopeName" value="default" />
     <option name="SEARCH_SCOPE" value="default" />
-    <option name="FILE_MASK" value="*.HTML" />
-    <mask>*.ts</mask>
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.HTML</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
