@@ -5,10 +5,12 @@
       <mapping pattern="cardCreate" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="ssl" type="PLAIN_TEXT" />
       <mapping pattern="elementPrediction" type="TypeScript" />
