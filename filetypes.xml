@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="notificationPayLoad" type="AUTO_DETECTED" />
       <mapping pattern="cardCreate" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
