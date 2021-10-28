@@ -3,13 +3,21 @@
     <option name="taskBranches">
       <map>
         <entry key="LOCAL-00024" value="feature/jetbrain_task_test" />
+        <entry key="LOCAL-00306" value="bugfix/header_france_header" />
         <entry key="tooning-graphql-server-202" value="feature/tooning-graphql-server-202" />
         <entry key="tooning-graphql-server-204" value="feature/204-clone-worker-thread" />
         <entry key="tooning-ionic-admin-896" value="feature/tooning-ionic-admin-896" />
         <entry key="tooning-ionic-admin-923" value="feature/tooning-ionic-admin-923" />
+        <entry key="tooning-repo-1002" value="bugfix/tooning-repo-1002" />
+        <entry key="tooning-repo-1028" value="bugfix/tooning-repo-1028" />
+        <entry key="tooning-repo-1049" value="bugfix/tooning-repo-1049" />
         <entry key="tooning-repo-803" value="feature/tooning-repo-803" />
         <entry key="tooning-repo-836" value="feature/tooning-repo-836" />
         <entry key="tooning-repo-838" value="feature/tooning-repo-838" />
+        <entry key="tooning-repo-860" value="bugfix/tooning-repo-860" />
+        <entry key="tooning-repo-939" value="bugfix/tooning-repo-939" />
+        <entry key="tooning-repo-945" value="feature/tooning-repo-945" />
+        <entry key="tooning-repo-968" value="bugfix/tooning-repo-968" />
       </map>
     </option>
   </component>
