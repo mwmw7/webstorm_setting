@@ -1,10 +1,22 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="default" />
-    <option name="defaultScopeName" value="default" />
-    <option name="SEARCH_SCOPE" value="default" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.HTML</mask>
-    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.service</mask>
+    <mask>*.enum</mask>
+    <mask>*.ats</mask>
     <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
