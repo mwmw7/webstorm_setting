@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="notificationPayLoad" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
-      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="notificationPayLoad" type="AUTO_DETECTED" />
       <mapping pattern="cardCreate" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
@@ -16,9 +16,9 @@
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="ssl" type="PLAIN_TEXT" />
-      <mapping pattern="logger" type="TypeScript" />
-      <mapping pattern="inputInteger" type="TypeScript" />
       <mapping pattern="elementPrediction" type="TypeScript" />
+      <mapping pattern="inputInteger" type="TypeScript" />
+      <mapping pattern="logger" type="TypeScript" />
       <mapping pattern="shoe" type="TypeScript" />
       <mapping pattern="background" type="TypeScript" />
       <mapping ext="enum" type="TypeScript" />
