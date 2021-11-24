@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account name="mwmw7" id="ea171241-d37e-45da-bc16-5eb768263ecf">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="COPY_URL_GIST" value="true" />
     <option name="PRIVATE_GIST" value="false" />
