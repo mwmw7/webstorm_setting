@@ -5,6 +5,7 @@
       <mapping pattern="notificationPayLoad" type="AUTO_DETECTED" />
       <mapping pattern="cardCreate" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="origin" type="PLAIN_TEXT" />
