@@ -67,7 +67,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:ProjectOpenSea/opensea-js.git" />
+          <option name="url" value="https://github.com/ProjectOpenSea/opensea-js.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
