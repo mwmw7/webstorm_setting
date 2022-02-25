@@ -3,7 +3,7 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html`" />
     <mask>*.json</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
@@ -17,8 +17,9 @@
     <mask>*.service</mask>
     <mask>*.enum</mask>
     <mask>*.ats</mask>
+    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
+    <mask>*.html`</mask>
   </component>
 </application>
