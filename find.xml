@@ -6,6 +6,7 @@
     <option name="FILE_MASK" value="*.html" />
     <mask>*.json</mask>
     <mask>*</mask>
+    <mask>*.html`</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -16,10 +17,9 @@
     <mask>*.service</mask>
     <mask>*.enum</mask>
     <mask>*.ats</mask>
+    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.html`</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
   </component>
 </application>
