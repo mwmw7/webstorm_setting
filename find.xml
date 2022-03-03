@@ -3,6 +3,7 @@
     <option name="customScope" value="Changes" />
     <option name="defaultScopeName" value="Changes" />
     <option name="SEARCH_SCOPE" value="Changes" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.json</mask>
     <mask>*</mask>
     <mask>*.xml</mask>
@@ -19,5 +20,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.md</mask>
   </component>
 </application>
