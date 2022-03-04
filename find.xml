@@ -19,7 +19,6 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.md</mask>
     <mask>*.ts</mask>
   </component>
 </application>
