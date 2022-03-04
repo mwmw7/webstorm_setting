@@ -3,13 +3,37 @@
     <option name="taskBranches">
       <map>
         <entry key="LOCAL-00024" value="feature/jetbrain_task_test" />
+        <entry key="LOCAL-00306" value="bugfix/header_france_header" />
         <entry key="tooning-graphql-server-202" value="feature/tooning-graphql-server-202" />
         <entry key="tooning-graphql-server-204" value="feature/204-clone-worker-thread" />
         <entry key="tooning-ionic-admin-896" value="feature/tooning-ionic-admin-896" />
         <entry key="tooning-ionic-admin-923" value="feature/tooning-ionic-admin-923" />
+        <entry key="tooning-repo-1002" value="bugfix/tooning-repo-1002" />
+        <entry key="tooning-repo-1028" value="bugfix/tooning-repo-1028" />
+        <entry key="tooning-repo-1049" value="bugfix/tooning-repo-1049" />
+        <entry key="tooning-repo-1713" value="bugfix/tooning-repo-1713" />
+        <entry key="tooning-repo-1718" value="feature/tooning-repo-1718" />
+        <entry key="tooning-repo-1724" value="bugfix/tooning-repo-1724" />
+        <entry key="tooning-repo-1726" value="bugfix/tooning-repo-1726" />
+        <entry key="tooning-repo-1734" value="bugfix/tooning-repo-1734" />
+        <entry key="tooning-repo-1744" value="bugfix/tooning-repo-1744" />
+        <entry key="tooning-repo-2090" value="feature/tooning-repo-2090" />
+        <entry key="tooning-repo-2104" value="bugfix/tooning-repo-2104-crop-fit-bug" />
+        <entry key="tooning-repo-2162" value="feature/tooning-repo-2162" />
+        <entry key="tooning-repo-2174" value="bugfix/tooning-repo-2174" />
+        <entry key="tooning-repo-2268" value="feature/tooning-repo-2268" />
+        <entry key="tooning-repo-2274" value="feature/tooning-repo-2274" />
+        <entry key="tooning-repo-2291" value="feature/tooning-repo-2291" />
+        <entry key="tooning-repo-2308" value="bugfix/tooning-repo-2308" />
+        <entry key="tooning-repo-2348" value="feature/tooning-repo-2348" />
+        <entry key="tooning-repo-244" value="feature/tooning-repo-244" />
         <entry key="tooning-repo-803" value="feature/tooning-repo-803" />
         <entry key="tooning-repo-836" value="feature/tooning-repo-836" />
         <entry key="tooning-repo-838" value="feature/tooning-repo-838" />
+        <entry key="tooning-repo-860" value="bugfix/tooning-repo-860" />
+        <entry key="tooning-repo-939" value="bugfix/tooning-repo-939" />
+        <entry key="tooning-repo-945" value="feature/tooning-repo-945" />
+        <entry key="tooning-repo-968" value="bugfix/tooning-repo-968" />
       </map>
     </option>
   </component>
