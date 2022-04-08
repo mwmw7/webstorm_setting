@@ -12,12 +12,12 @@
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
-    <mask>*.html</mask>
     <mask>*.service</mask>
     <mask>*.enum</mask>
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
     <mask>*.ts</mask>
   </component>
 </application>
