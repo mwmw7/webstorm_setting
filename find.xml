@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="tooning-repo-2501-memento-pattern-temporary-fix" />
     <option name="defaultScopeName" value="tooning-repo-2501-memento-pattern-temporary-fix" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="tooning-repo-2501-memento-pattern-temporary-fix" />
     <option name="FILE_MASK" value="*.ts" />
     <mask>*.json</mask>
