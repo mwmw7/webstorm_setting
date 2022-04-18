@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="tooning-repo-2501-memento-pattern-temporary-fix" />
-    <option name="defaultScopeName" value="tooning-repo-2501-memento-pattern-temporary-fix" />
+    <option name="customScope" value="tooning-repo-2589-signup-update" />
+    <option name="defaultScopeName" value="tooning-repo-2589-signup-update" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="tooning-repo-2501-memento-pattern-temporary-fix" />
-    <option name="FILE_MASK" value="*.ts" />
-    <mask>*.json</mask>
+    <option name="SEARCH_SCOPE" value="tooning-repo-2589-signup-update" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -14,12 +13,13 @@
     <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
-    <mask>*.html</mask>
     <mask>*.service</mask>
     <mask>*.enum</mask>
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.json</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
