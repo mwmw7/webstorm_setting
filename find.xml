@@ -5,7 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="tooning-repo-2589-signup-update" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.html" />
+    <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -18,8 +19,7 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.json</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
