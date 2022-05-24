@@ -7,8 +7,9 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.spec.ts" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.json</mask>
+    <mask>*.spec.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -23,6 +24,5 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
-    <mask>*.spec.ts</mask>
   </component>
 </application>
