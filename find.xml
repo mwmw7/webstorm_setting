@@ -8,6 +8,7 @@
     <option name="FILE_MASK" value="*.ts" />
     <mask>*.json</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.service.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -21,7 +22,6 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.service.ts</mask>
     <mask>*.ts</mask>
   </component>
 </application>
