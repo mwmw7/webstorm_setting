@@ -7,6 +7,8 @@
     <mask>*.spec.ts</mask>
     <mask>*.spec.js</mask>
     <mask>*.json</mask>
+    <mask>*.service.ts</mask>
+    <mask>*.page.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -20,8 +22,6 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.service.ts</mask>
-    <mask>*.page.ts</mask>
     <mask>*.ts</mask>
   </component>
 </application>
