@@ -5,12 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*module.ts" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.spec.ts</mask>
     <mask>*.spec.js</mask>
     <mask>*.json</mask>
     <mask>*.service.ts</mask>
     <mask>*.page.ts</mask>
+    <mask>*module.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -25,6 +26,5 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
-    <mask>*module.ts</mask>
   </component>
 </application>
