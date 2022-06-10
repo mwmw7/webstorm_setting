@@ -22,9 +22,9 @@
     <mask>*.service</mask>
     <mask>*.enum</mask>
     <mask>*.ats</mask>
+    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
   </component>
 </application>
