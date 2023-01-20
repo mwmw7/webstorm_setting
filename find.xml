@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="tooning-repo-3222 Add PR close when test fail" />
     <option name="defaultScopeName" value="tooning-repo-3222 Add PR close when test fail" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="tooning-repo-3222 Add PR close when test fail" />
     <option name="FILE_MASK" value="*.ts" />
     <mask>*.spec.ts</mask>
